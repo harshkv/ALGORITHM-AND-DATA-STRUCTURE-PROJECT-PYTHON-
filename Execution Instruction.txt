@@ -1,0 +1,37 @@
+The ocodes are executed using Python 3, in the system terminal.
+There are 3 input files for undirected graph:
+inp2_undirected.txt
+inp2_undirected1.txt
+inp2_undirected2.txt
+
+There are 3 input for directed graphs:
+inp1.txt
+inp2.txt
+inp3.txt
+
+WE have 3 programs:
+One for Dijkstra's Directed Graphs
+One for Dijkstra's Undirected Graphs
+and One for Prim's Algorithm
+
+For DIJKSTRA'S DIRECTED GRAPH CODE:
+The source is by default A and it tracks path to all other nodes,
+in case it doesn't have a path its infinite. The source can be changed
+in the code, while calling Dijkstra's. The code also displays each path
+one by one from the node, takes the shortest, discards the other.
+It might go in an infinite loop in case there is no path or its
+not a connected node.
+
+For DIJKSTRA'S UNDIRECTED GRAPH CODE:
+The source is by default A and it tracks path to all other nodes,
+in case it doesn't have a path its infinite.The source can be changed
+in the code, while calling Dijkstra's.The code also displays each path
+one by one from the node, takes the shortest, discards the other.
+It might go in an infinite loop in case there is no path or its
+not a connected node.
+
+For Prims's Code:
+It displays the path and spanning tree and the cost. Starts from
+node A.
+
+The folder of input must be placed in same as the python file.

@@ -1,0 +1,11 @@
+6 9 D
+C F 1
+F E 4
+D E 4
+A D 1
+B A 3
+C B 2
+B F 3
+B D 1
+B E 2
+
